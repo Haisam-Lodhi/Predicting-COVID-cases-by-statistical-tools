@@ -1,0 +1,23 @@
+install.packages("shiny")        # Required for Shiny apps
+install.packages("ggplot2")      # If you're using plots
+install.packages("dplyr")        # For data manipulation
+install.packages("readr")
+library(shiny); runApp('C:/Users/User/OneDrive/Desktop/CovidApp/app.R.R')
+runApp('C:/Users/User/OneDrive/Desktop/CovidApp/app.R.R')
+install.packages("bslib")
+runApp('C:/Users/User/OneDrive/Desktop/CovidApp/app.R.R')
+runApp('C:/Users/User/OneDrive/Desktop/CovidApp/app.R.R')
+runApp('C:/Users/User/OneDrive/Desktop/CovidApp/app.R.R')
+runApp('C:/Users/User/OneDrive/Desktop/CovidApp/app.R.R')
+runApp('C:/Users/User/OneDrive/Desktop/CovidApp/app.R.R')
+runApp('C:/Users/User/OneDrive/Desktop/CovidApp/app.R.R')
+runApp('C:/Users/User/OneDrive/Desktop/CovidApp/app.R.R')
+runApp('C:/Users/User/OneDrive/Desktop/CovidApp/app.R.R')
+runApp('C:/Users/User/OneDrive/Desktop/CovidApp/app.R.R')
+library(shiny); runApp('C:/Users/User/OneDrive/Desktop/CovidApp/app.R.R')
+library(shiny); runApp('C:/Users/User/OneDrive/Desktop/CovidApp/app.R.R')
+library(shiny); runApp('C:/Users/User/OneDrive/Desktop/CovidApp/app.R.R')
+runApp('C:/Users/User/OneDrive/Desktop/CovidApp/app.R.R')
+runApp('C:/Users/User/OneDrive/Desktop/CovidApp/app.R.R')
+runApp('C:/Users/User/OneDrive/Desktop/CovidApp/app.R.R')
+runApp('C:/Users/User/OneDrive/Desktop/CovidApp/app.R.R')
